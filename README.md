@@ -1,7 +1,10 @@
 ![Welcome!](images/tianyi-credits-unsplash.jpg)
-<h1><p style="text-align:center;">The Stylus on Paper Guide</p></h1>
 
-<p style="text-align:center;">A curation of all the FREE CS resources to aid your voyage through 0s and 1s.</p>
+<h1 align="center">The Stylus on Paper Guide</h1>
+<p align="center">
+  A curation of all the FREE CS resources to aid your voyage through 0s and 1s.
+</p>
+
 
 # Contents
 - [Introduction](#Introduction)
@@ -11,14 +14,14 @@
 - [Competitive Programming](#Competitive-Programming)
 - [Data Science](#Data-Science)
 - [Machine Learning](#Machine-Learning)
-****
+
 
 # Introduction
 One-stop hub for all your CS Resources.
 Roadmaps and references provided for each standard resource.
 Why the name Stylus on Paper? Cause CS Repository sounds conventional.
 
-**MUST READ FOR NAVIGATION**
+### MUST READ FOR NAVIGATION
 
 ■ The emoji 🎓 indicates the most preferred option incase you're confused as to what to choose. The standard resource followed by many. All others can be used for reference.
 
@@ -32,7 +35,6 @@ Which is why if you're a beginner, I'll recommend you to follow [OSSU](https://g
 ■ **Focus on one particular discipline, and move on to the next only after its completion.**
 Do not think about the others. One step at a time. A note for beginners.
 
-****
 
 # Computer-Science
 The study of computation, automation and information. 
@@ -57,7 +59,7 @@ Less clutter & little less detailed than OSSU. Nevertheless, it's perfect if you
 **Optional Miscellaneous courses for reference**
 1. [Harvard's CS50](https://cs50.harvard.edu/x/2022/weeks/)
 Beginner level at best. Go for it if you're just starting out and the above curriculums overwhelm you.
- ****
+
  
 # Math
 - For computer programming - **high school algebra & calculus** is enough to a large extent.
@@ -116,9 +118,6 @@ Pre requisite: [Multivariable Calculus](https://ocw.mit.edu/courses/18-02-multiv
 
 
 
-
-****
-
 # Computer-Programming
 Languages, so it is.
 
@@ -135,7 +134,7 @@ Covers only the theoretical portion of programming and computer design, refer to
 
 Too many questions/doubts about the journey?
 This [FAQ page](https://www.reddit.com/r/learnprogramming/wiki/faq/) can help you out.
-****
+
 
 # Competitive-Programming
 Pre-requisites: High school algebra
@@ -195,7 +194,7 @@ Contests & Coding Hackathons
 **Other Resources**
 - [Books](https://github.com/kunal-kushwaha/Competitive-Programming-Resources/blob/master/README.md#problem-solving-books)
 - [Kunal Kushwaha's Resource Repo](https://github.com/kunal-kushwaha/Competitive-Programming-Resources)
-****
+
 
 # Data-Science
 Math heavy discipline.
@@ -233,7 +232,7 @@ Referring a book is necessary.
 **Miscellaneous**
 
 - [Data Science & Machine Learning Compendium for Data Science Research](https://mlcompendium.gitbook.io/machine-and-deep-learning-compendium/)
-****
+
 
 # Machine-Learning
 Math heavy discipline.
